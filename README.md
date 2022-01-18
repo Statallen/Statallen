@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Allen
 - 👀 I’m interested in Statistics
-- 🌱 I’m currently a MS student in Statistics
+
 
 
 <!---
