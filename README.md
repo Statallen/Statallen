@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Allen
-- 👀 I’m interested in Statistics and Risk Management
+- 👀 I’m interested in Statistics, Risk Management, and Quantitative Finance
 
 
 
